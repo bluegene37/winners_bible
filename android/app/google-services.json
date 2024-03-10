@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "641017213645",
+    "project_id": "spin-bible",
+    "storage_bucket": "winners-bible.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641017213645:android:d81edd5893170e19fd2f84",
+        "android_client_info": {
+          "package_name": "com.qhodegray.winnersbible"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641017213645-87ptbun05h2qvuevl6upkb5jomc63mu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyzBf-aYPlEO2JEQVGgOS3DuNoprQTZzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641017213645-87ptbun05h2qvuevl6upkb5jomc63mu4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "641017213645-6rki0r2am1q7r5spuo176hlpark1icbe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.qhodegray.winnersbible"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

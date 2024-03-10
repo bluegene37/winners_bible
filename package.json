@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "firebase": "^10.3.0",
+    "install": "^0.13.0",
+    "tool": "^21.0.0"
+  }
+}
